@@ -1,19 +1,19 @@
 h1{
-  color: blue;
-}
-h2{
-  color: red;
-}
-h3{
-  color: blueviolet;
-}
-
-body {
-  margin: 20px;
-  color: #333
-}
-
-  .syasin img {
-    border-radius: 50%;
-    margin-top: 0px;
+    color: rgb(245, 147, 162);
   }
+  h2{
+    color: red;
+  }
+  h3{
+    color: rgb(43, 214, 226);
+  }
+  
+  body {
+    margin: 20px;
+    color: #333
+  }
+  
+    .syasin img {
+      border-radius: 50%;
+      margin-top: 0px;
+    }
